@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/plugins/ForestTools">
+        <file>icons/autovector.png</file>
+        <file>icons/forest.png</file>
+        <file>icons/forestfire.png</file>
+        <file>icons/layerstacking.png</file>
+    </qresource>
+</RCC>
